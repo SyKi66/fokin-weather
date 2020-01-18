@@ -9,7 +9,7 @@ const weatherOptions = {
         iconName: "weather-sunny",
         gradient: ["#2193b0","#6dd5ed"],
         title: "맑음",
-        subtitle: "나가서 놀아라"
+        subtitle: "나가서 놀자~"
     },
     Thunderstorm : {
         iconName: "weather-lightning",

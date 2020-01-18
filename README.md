@@ -1,2 +1,2 @@
-# fokin-weather
-learn react
+# weather-app
+just weather app
